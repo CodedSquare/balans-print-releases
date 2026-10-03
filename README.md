@@ -1,2 +1,5 @@
-# balans-print-releases
-Official desktop companion releases for Balans Restaurant
+# Balans Print
+
+Official desktop companion releases for Balans Restaurant.
+
+https://balansup.com
